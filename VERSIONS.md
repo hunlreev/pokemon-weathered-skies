@@ -1,9 +1,9 @@
 # Pokemon Weathered Skies Patches and Updates
 All versions of Weathered Skies will be documented here, along with changes and bug fixes
 
-### Version 0.4.0-pre (Date Finished - 07/??/2020)
+## Version 0.4.0-pre (Date Finished - 07/??/2020)
 - Added new house and NPC to Breeze Town
-# UNFINISHED/IN-PROGRESS
+### UNFINISHED/IN-PROGRESS
 - Added trainer battles to Route 40
 - Created the map and added signs to Stark Town
 - Added more NPCs to Breeze Town
@@ -12,7 +12,7 @@ All versions of Weathered Skies will be documented here, along with changes and 
 - Fixed Daisy's dialogue to fit professor Hadley and who Mark is to him
 - Custom game start with starter and plot for the beginning of the game
 
-### Version 0.3.0-pre (Date Finished - 07/14/2020)
+## Version 0.3.0-pre (Date Finished - 07/14/2020)
 - Changed three starters based on all three base forms of Castform
 - Added default interiors to all the houses in Breeze Town
 - Changed start location to house in Breeze Town
@@ -34,7 +34,7 @@ All versions of Weathered Skies will be documented here, along with changes and 
 - Fixed Route 40 Map to end the river and begin transition to Rocket City
 - Began transition to Lost Caverns on Route 46
 
-### Version 0.2.3-pre (Date Finished - 04/06/2020)
+## Version 0.2.3-pre (Date Finished - 04/06/2020)
 - Added and started Route 46 
 - Added the Pokemon Lab to Breeze Town
 - Tweaked Pokemon encounters in the grass
@@ -42,28 +42,28 @@ All versions of Weathered Skies will be documented here, along with changes and 
 - Fixed water/tree issue on the right of the screen
 - Fixed tileset glitch between Breeze Town and Route 40
 
-### Version 0.2.2-pre (Date Finished - 04/06/2020)
+## Version 0.2.2-pre (Date Finished - 04/06/2020)
 - Finished Route 40 map
 - Added Old Rod Fish Guru to Route 40
 - Started Stark Town
 
-### Version 0.2.1-pre (Date Finished - 04/05/2020)
+## Version 0.2.1-pre (Date Finished - 04/05/2020)
 - Added signs for Breeze Town and Route 40
 - Tweaked the transition between Breeze Town and Route 40
 - Tweaks in Breeze Town and to Route 40
 
-### Version 0.2.0-pre (Date Finished - 04/05/2020)
+## Version 0.2.0-pre (Date Finished - 04/05/2020)
 - Added mapping to warp to Breeze Town
 - Added Route 40 to the south
 - Got a functioning PokeCenter and PokeMart
 - Added some filler encounters in the grass
 - Added some signs for the Breeze Town and Route 40
 
-### Version 0.1.0-pre (Date Finished - 04/05/2020)
+## Version 0.1.0-pre (Date Finished - 04/05/2020)
 - Created Breeze Town
 - Fixed some bugs with the map
 
-### Version 0.0.1-pre (Date Finished - 04/04/2020)
+## Version 0.0.1-pre (Date Finished - 04/04/2020)
 - Got the Town Map to work in the game
 - Fixed head sprite location
 - Made the Town Map
