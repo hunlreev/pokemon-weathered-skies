@@ -43,7 +43,7 @@ Starters:
 - Add a river specific water route between Ozark City and Twister City
 - Custom music
 
-## Stretched Goals
+## Stretch Goals
 - Add up to gen 7 Pokemon
 - Add tumbleweeds that have a chance for a random pokemon encounter
 - Add several new fakemon forms for Castform for various weather
