@@ -3,7 +3,7 @@ All versions of Weathered Skies will be documented here, along with changes and 
 
 ## Version 0.4.0-pre (Date Finished - 07/??/2020)
 - Added new house and NPC to Breeze Town
-### UNFINISHED/IN-PROGRESS
+#### UNFINISHED/IN-PROGRESS
 - Added trainer battles to Route 40
 - Created the map and added signs to Stark Town
 - Added more NPCs to Breeze Town
