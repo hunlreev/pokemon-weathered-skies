@@ -1,15 +1,20 @@
 # Pokemon Weathered Skies Patches and Updates
 All versions of Weathered Skies will be documented here, along with changes and bug fixes
 
+## Current Known Bugs
+- Glitch when choosing starter where it says "give a nickname to this CASTFORM"
+- Wrong text when delivering Oaks parcel, still referred to as OAK
+
 ## Version 0.4.0-pre
 ### COMPLETED
 - Added new house and NPC to Breeze Town
+- Added 4 trainer battles to Route 40
 ### UNFINISHED/IN-PROGRESS
-- Added trainer battles to Route 40
 - Created the map and added signs to Stark Town
 - Added more NPCs to Breeze Town
 - Got a functioning PokeCenter and PokeMart in Stark City
 - Custom title screen to the game
+- Custom introduction to the game
 - Fixed Daisy's dialogue to fit professor Hadley and who Mark is to him
 - Custom game start with starter and plot for the beginning of the game
 
