@@ -2,10 +2,14 @@
 All versions of Weathered Skies will be documented here, along with changes and bug fixes
 
 ## Current Known Bugs
-- Glitch when choosing starter where it says "give a nickname to this CASTFORM"
-- Wrong text when delivering Oaks parcel, still referred to as OAK
+- 
 
-## Version 0.4.0-pre
+## Version 0.4.1-pre
+### UNFINISHED/IN-PROGRESS
+- Custom title screen to the game
+- Custom introduction to the game
+
+## Version 0.4.0-pre (Date Finished - 07/20/2020)
 - Added new house and NPC to Breeze Town
 - Added 4 trainer battles to Route 40
 - Change the 1% Pokemon on Route 40
@@ -17,11 +21,28 @@ All versions of Weathered Skies will be documented here, along with changes and 
 - Got a functioning PokeCenter and PokeMart in Stark City
 - Created the map and added signs to Stark City
 - Added the Name Rater
-### UNFINISHED/IN-PROGRESS
-- Add Warps to houses and NPCS in houses and Stark City
-- Custom title screen to the game
-- Custom introduction to the game
+- Added new way to get town map
+- Added new way to get running shoes
+- Added new NPCS in the Lab to give Pokemon and redo the storyline
 - Custom game start with starter and plot for the beginning of the game
+- Changed Pokemon found on Route 40
+- Fixed Mart in Breeze Town
+- Changed the Pokedex to National Dex at the beginning of the game
+- Added some items on Route 40
+- Added Warps to houses and NPCS in houses and Stark City
+- Added Rival story and battle in Stark City
+- Added a sign in front of the lab describing Professor Hadley and his research
+- Made all TVs in Breeze Town say the same "Storm on Route 46" message
+- Added an Aid in the Lab that gives a Pokeball starter kit
+- Fixed item on Route 40
+- Fixed Trainer on Route 40 to give the right amount of money
+- Slight change to Breeze Town and new script for Aid
+- Added NPC to prevent player from leaving before getting Castform
+- Made it so player cannot use PC without having a Pokemon
+- Fixed bug when nicknaming Pokemon through givepokemon, Pokemon sprite is always Castform
+- Improved first rival battle
+- Fixed Music in Fishing Guru's House
+- Added Water and Fishing Rod encounters
 
 ## Version 0.3.0-pre (Date Finished - 07/14/2020)
 - Changed three starters based on all three base forms of Castform

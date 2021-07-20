@@ -36,17 +36,17 @@ Locations: 13 Towns/Cities, 7 Places of Interest, and 22 routes!
 - Victory Road
 - Cirrus City
 
-Starters:
-- Magby (Fire - Sunny Day)
-- Marill (Water - Rain Dance)
-- Snorunt (Ice - Hail)
-
 ## Goals
 - Add a river specific water route between Ozark City and Twister City
 - Custom music
 
 ## Stretch Goals
-- Add up to gen 7 Pokemon
+- Add some select Pokemon from gens 4 to 7
+- Add Fairy typing and moves
 - Add tumbleweeds that have a chance for a random pokemon encounter
 - Add several new fakemon forms for Castform for various weather
 - Change Hail to Sleet and add a stronger new move actually called Hail
+- Change UI in various areas (in battle, menus, etc)
+- Add custom sprites for player, rival, professor, gym leaders, and elite four members
+- Add custom music
+- Add custom gym badges
