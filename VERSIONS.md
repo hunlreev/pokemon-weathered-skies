@@ -4,10 +4,13 @@ All versions of Weathered Skies will be documented here, along with changes and 
 ## Current Known Bugs
 - 
 
-## Version 0.4.1-pre
-### UNFINISHED/IN-PROGRESS
+## Version 0.4.2-pre
+### In-Progress
 - Custom title screen to the game
 - Custom introduction to the game
+
+## Version 0.4.1-pre (Date Finished - 07/22/2020)
+- Monkey
 
 ## Version 0.4.0-pre (Date Finished - 07/20/2020)
 - Added new house and NPC to Breeze Town

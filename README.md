@@ -2,7 +2,7 @@
 
 ## About the Rom Hack
 
-Welcome to the Metoria Region! There is quite a lot of weather here, and the Pokemon seem to undergo changes that make them stronger in certain types of weather... that's where you come in! You are to explore the region and figure out why this is happening, and to makes new discoveries with your new pal - Castform! Explore multiple areas in the region, and experience all sorts of weather! Collect 8 gym badges, but be warned - they know how to use weather effects to their advantage. Each badge will allow you to progress further into the game. Explore 13 new Towns and Cities and 6 new places to explore.
+Welcome to the Metoria Region! There is quite a lot of weather here, and the Pokemon seem to undergo changes that make them stronger in certain types of weather... that's where you come in! You are to explore the region and figure out why this is happening, and to make new discoveries with your new pal - Castform! Explore multiple areas in the region, and experience all sorts of weather! Collect 8 gym badges, but be warned - they know how to use weather effects to their advantage. Each badge will allow you to progress further into the game. Explore 13 new Towns and Cities and 6 new places to explore.
 
 ## Disclaimer
 
