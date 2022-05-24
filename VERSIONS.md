@@ -1,18 +1,7 @@
 # Pokemon Weathered Skies Patches and Updates
-All versions of Weathered Skies will be documented here, along with changes and bug fixes
+All versions of Weathered Skies will be documented here, along with the changelog and bug fixes
 
-## Current Known Bugs
-- 
-
-## Version 0.4.2-pre
-### In-Progress
-- Custom title screen to the game
-- Custom introduction to the game
-
-## Version 0.4.1-pre (Date Finished - 07/22/2020)
-- Monkey
-
-## Version 0.4.0-pre (Date Finished - 07/20/2020)
+## Version 0.4.0-pre (Date Finished - ??/??/2022)
 - Added new house and NPC to Breeze Town
 - Added 4 trainer battles to Route 40
 - Change the 1% Pokemon on Route 40
@@ -46,6 +35,18 @@ All versions of Weathered Skies will be documented here, along with changes and 
 - Improved first rival battle
 - Fixed Music in Fishing Guru's House
 - Added Water and Fishing Rod encounters
+- Worked on the next routes leaving Stark Town and Route 46
+- Finished the map and added signs to Stark Town
+- Fixed PokeCenter and PokeMart in Breeze Town
+### TODO
+- Got a functioning PokeCenter and PokeMart in Stark City
+- Added trainer battles to Route 46
+- Finished Route 46 and began work on Lost Caverns
+- Custom title screen to the game
+- Custom introduction to the game
+
+## Version 0.3.1-pre (Date Finished - 07/15/2020)
+- Added new house and NPC to Breeze Town
 
 ## Version 0.3.0-pre (Date Finished - 07/14/2020)
 - Changed three starters based on all three base forms of Castform
